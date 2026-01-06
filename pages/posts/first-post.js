@@ -10,5 +10,6 @@ export default function FirstPost() {
         <h2>
             <Link href='/'>Back to home</Link>
         </h2 >
+        <h3>This is second post.</h3>
     </Layout>
 }
